@@ -17,7 +17,10 @@
 ## Sobre
 Esta API de gestão de livros foi desenvolvida como parte do Challenge ONE, um desafio destinado a explorar Java e Spring Boot.
 
-![Projeto](./assets/projeto.png)
+<div>
+    <img src="./assets/images/project.png" alt="Swagger Documentation" />
+</div>
+
 
 ## Funcionalidades
 

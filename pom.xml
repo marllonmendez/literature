@@ -10,7 +10,7 @@
 	</parent>
 	<groupId>com.marllonmendez</groupId>
 	<artifactId>literature</artifactId>
-	<version>1.0.0-SNAPSHOT</version>
+	<version>1.0.1-SNAPSHOT</version>
 	<name>literature</name>
 	<description>Challenge LiterAlura</description>
 	<properties>
